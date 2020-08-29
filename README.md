@@ -1,2 +1,2 @@
-# css-grid-art-lab
-Exercise to review CSS Grid
+# General Assembly Lab: Exercise to review CSS Grid
+https://github.com/rixiobarrios/css-grid-art
